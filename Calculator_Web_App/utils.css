@@ -1,0 +1,33 @@
+.center{
+    font-family: 'Playfair Display', serif;
+    padding-bottom: 2px;
+    text-decoration:  underline dashed 5px ;
+    text-underline-offset: 7px;
+    text-align: center;
+}
+
+
+.bg{
+    background-color: red;
+}
+
+
+.margin-auto{
+
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+    
+}
+
+.item-center{
+    justify-content: center;
+    align-items: center;
+}
+

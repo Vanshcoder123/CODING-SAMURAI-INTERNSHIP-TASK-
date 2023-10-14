@@ -1,0 +1,61 @@
+body{
+
+    height: 100%;
+    width: 100%;
+    background-color: #6393A9;
+}
+
+
+.button{
+    padding: 20px;
+    margin: 0 3px ;
+    border: 7px solid black;
+    border-style: outset;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: #f2f3d9;
+    font-family: 'Playfair Display', serif;
+  font-size: large;
+    
+    
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    margin: 0;
+    padding: 10px 2px;
+    border-radius: 5px;
+    border: 5px solid black;
+    font-size:25px ;
+    font-weight: 200;
+    background-color: #7BA277;
+    font-family: 'Pixelify Sans', sans-serif;
+
+}
+
+.trb{
+    width: 220px;
+}
+
+.container{
+    border: 8px solid black;
+    border-style: outset;
+    width: 350px;
+    background-color:gray ;
+   
+}
+
+.diver{
+    border: 2px solid black;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+}
+
+.button:hover{
+
+    box-shadow: 1px 2px 2px black;
+}
